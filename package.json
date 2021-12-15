@@ -1,0 +1,29 @@
+{
+  "name": "@kaokei/vuepress-plugin-tongji",
+  "version": "1.0.0",
+  "description": "vuepress@1.x插件，支持各种平台的统计脚本。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "documentation",
+    "vue",
+    "vuepress",
+    "generator",
+    "tongji"
+  ],
+  "author": "kaokei <kaokei.rst@gmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaokei/vuepress-plugin-tongji.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kaokei/vuepress-plugin-tongji/issues"
+  },
+  "homepage": "https://github.com/kaokei/vuepress-plugin-tongji#readme"
+}
