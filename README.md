@@ -15,7 +15,7 @@ npm install -D @kaokei/vuepress-plugin-tongji
 ```javascript
 module.exports = {
   plugins: [
-    "vuepress-plugin-baidu-tongji",
+    "@kaokei/vuepress-plugin-tongji",
     {
       hm: "abcdefghijklmnopqrstuvwxyz12345678",
       ga: "UA-XXXXX-Y",
@@ -32,7 +32,7 @@ or
 ```javascript
 module.exports = {
   plugins: [
-    "baidu-tongji",
+    "@kaokei/tongji",
     {
       hm: "abcdefghijklmnopqrstuvwxyz123456",
       ga: "UA-XXXXX-Y",
@@ -49,7 +49,7 @@ or
 ```javascript
 module.exports = {
   plugins: {
-    "baidu-tongji": {
+    "@kaokei/tongji": {
       hm: "abcdefghijklmnopqrstuvwxyz123456",
       ga: "UA-XXXXX-Y",
       gtag: "G-EYE5NYPT4N",

@@ -1,6 +1,6 @@
 {
   "name": "@kaokei/vuepress-plugin-tongji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vuepress@1.x插件，支持各种平台的统计脚本。",
   "main": "index.js",
   "scripts": {
